@@ -1,7 +1,5 @@
 
 import React from 'react';
-import ReactDOM from 'react-dom';
-
 
 class GalleryItem extends React.Component {
     constructor(props){

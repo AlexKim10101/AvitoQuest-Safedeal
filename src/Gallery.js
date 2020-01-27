@@ -1,11 +1,10 @@
 
 import React from 'react';
-import ReactDOM from 'react-dom';
 import GalleryItem from './GalleryItem';
 import Modal from './Modal';
 
-const ADRESS = 'https://boiling-refuge-66454.herokuapp.com/images';
-const ACCEPTEDCODE = 204;
+import {ADRESS} from './GlobalValues';
+
 
 class Gallery extends React.Component {
 

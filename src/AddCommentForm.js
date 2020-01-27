@@ -1,6 +1,4 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
-
 import {ADRESS} from './GlobalValues';
 import {ACCEPTEDCODE} from './GlobalValues';
 

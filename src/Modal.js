@@ -1,6 +1,5 @@
 
 import React from 'react';
-import ReactDOM from 'react-dom';
 
 import Comments from './Comments';
 import AddCommentForm from './AddCommentForm';
